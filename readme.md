@@ -53,7 +53,7 @@ bot.back_from_slide()
 bot.click_setting_button()
 bot.back_from_settings()
 
-bot.comment('True')
+bot.comment('comment something')
 
 ```
 
